@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 2.5rem;
+    color: aliceblue;
+    font-weight: 900;
+    text-align: center;
+    background-color: coral;
+    margin-bottom: 0%;
+
+}
+h3{
+  margin-top: 5%;
+  text-align: center;
+  background-color: aliceblue;
+  color: coral;
+  margin-bottom: 0%;
+}
+thead{
+   margin-top:5% ; 
+  background-color: aliceblue;
+}
+tbody{
+  background-color: bisque;
+}
+form{
+  /* margin-top: 5%; */
+  background-color: aliceblue;
+}
+
+button{
+    font-size: 1.2 rem;
+      margin: 10%;
+    background-color:black;
+      color: whitesmoke;
+      font-weight: 900;
+      padding:10px;
+      cursor: pointer;
+      transition:0.5s ease;
+      align-self: auto;
+      
+
+}
+
+body {
+  background-image: url("../img/2.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: 90%;
+    display: flex;
+    flex-direction:column ;
+    
+    
+}
